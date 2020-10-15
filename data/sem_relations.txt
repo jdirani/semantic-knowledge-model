@@ -1,0 +1,7 @@
+ISA
+IS
+CAN
+HAS
+FUN/CAU
+Is_superordinate_of
+Part_of
